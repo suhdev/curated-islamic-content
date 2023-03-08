@@ -11,6 +11,10 @@ A repository hosting curated Islamic content that I found useful and helped me p
 - [Bridges Foundation Series on Quran Interpetation by Fadel Soliman](https://www.youtube.com/@FadelSoliman212) - A series of interpretation of the Quran that incorporates the different readings of the Quran. 
 - [Quranic Gems](https://www.youtube.com/playlist?list=PL6R_exQx7lhE1zsUSZs-iAaPaMS9zT-Hr) - a video series of Dr Fadhel Saleh Al-Samarrai, interprets the Quran from a linguistic perspective, highlighting the gems in Quranic expressions. 
 
+## Code
+- https://github.com/choubari/Awesome-Muslims
+- https://github.com/AhmedKamal/awesome-Islam
+
 ## Websites
 - [Quran.com](https://quran.com/)
 
